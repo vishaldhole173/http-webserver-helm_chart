@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  webapp:
+  - apiVersion: v1
+    appVersion: "1.1"
+    created: "2021-03-30T12:19:25.935830188Z"
+    digest: bd483f305cbe86a23bed827af18ae0a851f29026b200118b3284f8c3c6116b6e
+    name: webapp
+    urls:
+    - webapp-0.1.tgz
+    version: "0.1"
+generated: "2021-03-30T12:19:25.932933648Z"
